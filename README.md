@@ -1,7 +1,7 @@
 #Apna College
 <br>
 
-THIS MT FIRST GIT REPOSITORY
+THIS IS MY FIRST GIT REPOSITORY
 <br>
 Author  -Monika Raj
 
