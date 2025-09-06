@@ -1,2 +1,2 @@
-# My-Repository
 Apna College
+THIS MT FIRST GIT REPOSITORY
